@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "只要努力，任何时候都不晚"
+sidebar-about-description: "付出不亚于任何人的努力"
 sidebar-avatar: /img/avatar-wade.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
