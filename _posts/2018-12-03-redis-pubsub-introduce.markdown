@@ -123,7 +123,7 @@ public class IoMessageServiceImpl implements IoMessageService {
       Object obj = redisTemplate.getValueSerializer().deserialize(message.getBody());
       //TODO do somthing
     } catch (Exception e) {
-      log.error("[Fetch data from Tianyancha] onMessage execute error: {}", e.getMessage());
+      log.error("onMessage execute error: {}", e.getMessage());
     }
   }
 
